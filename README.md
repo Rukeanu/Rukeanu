@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rukeanu
 - 👀 I’m interested in coding, writing stories, reading books and playing chess.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning back-end development.
 - 💞️ I’m looking to collaborate on something, what will change our world to the better.
 - 📫 How to reach me: jorahmormontdefender@gmail.com.
 
