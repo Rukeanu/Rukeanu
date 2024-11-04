@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Rukeanu
-- 👀 I’m interested in coding, writing stories, reading books and playing chess
-- 🌱 I’m currently learning back-end development
-- 💞️ I’m looking to collaborate on something, what will change our world to the better
+- 🏫 Student at School 21 (Backend Development)
+- 💡 Technologies: C, Go, Git, PostgreSQL, Docker, currently learning RESTful APIs
+- 📱 You can see my projects in the repositories
+- 🪄 I’m looking to collaborate on something, what will change our world to the better
 - 📫 How to reach me: jorahmormontdefender@gmail.com
 
 <!---
