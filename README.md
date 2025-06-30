@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rukeanu
-- 🏫 Student at School 21 (Business systems analyst, Backend development)
+- 🏫 Student at School 21 (Business systems analyst)
 - 💡 Technologies: C, Go, Git, PostgreSQL, Docker, currently learning RESTful APIs
 - 📱 You can see my projects in the repositories
 - 🪄 I’m looking to collaborate on something, what will change our world to the better
